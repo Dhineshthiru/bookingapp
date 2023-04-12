@@ -14,7 +14,7 @@ const Featured = () => {
           <h2>118 properties</h2>
         </div>
       </div>
-      
+
       <div className="featuredItem">
         <img
           src="https://assets-news.housing.com/news/wp-content/uploads/2022/07/12214143/best-places-to-visit-in-Tamil-Nadu-Kanyakumari-shutterstock_1750897691.jpg"
